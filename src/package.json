@@ -1,0 +1,31 @@
+{
+  "name": "Lee",
+  "description": "LetsEncrypt aaS",
+  "version": "0.0.5",
+  "main": "index.js",
+  "homepage": "https://shadowacre.ltd",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Joeasaurus/lee.git"
+  },
+  "author": {
+    "name": "Joe Eaves",
+    "email": "joe.eaves@shadowacre.ltd",
+    "url": "http://example.com"
+  },
+  "engines": {
+    "node": ">= 5.0.0"
+  },
+  "dependencies": {
+    "express": "~4.14.0",
+    "basic-auth": "~1.0.4"
+  },
+  "license": "MIT",
+  "keywords": [
+    "api",
+    "amazon",
+    "aws",
+    "route53",
+    "awssum-helper"
+  ]
+}
